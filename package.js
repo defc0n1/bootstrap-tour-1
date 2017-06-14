@@ -1,8 +1,8 @@
 Package.describe({
     summary: 'A Meteor.js / Blaze integration for bootstrap-tour',
-    version: '1.1.0',
-    name: 'flowkey:bootstrap-tour',
-    git: 'https://github.com/nerdmed/bootstrap-tour.git',
+    version: '1.1.1',
+    name: 'defc0n1:bootstrap-tour',
+    git: 'https://github.com/defc0n1/bootstrap-tour-1.git',
     documentation: 'README.md'
 });
 
